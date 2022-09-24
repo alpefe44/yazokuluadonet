@@ -1,0 +1,11 @@
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\BusinessLogicLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\BusinessLogicLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

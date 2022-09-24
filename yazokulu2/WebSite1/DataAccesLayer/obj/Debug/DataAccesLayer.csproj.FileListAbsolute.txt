@@ -1,0 +1,11 @@
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\DataAccesLayer\bin\Debug\EntityLayer.dll
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\DataAccesLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\DataAccesLayer\bin\Debug\EntityLayer.pdb
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\DataAccesLayer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CopyComplete
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\efe19\Desktop\yazokulu2\WebSite1\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
